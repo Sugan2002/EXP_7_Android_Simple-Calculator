@@ -1,4 +1,6 @@
-# Ex.No:7 Develop a simple calculator using android studio.
+## Date-10/05/2022
+# <p align="center"> Ex.No:7 Develop a simple calculator using android studio</P>
+
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
@@ -21,6 +23,7 @@ Step 6: Display the calculator operation in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+
 ```
 /*
 Program to print the text “calculator operation”.
@@ -28,6 +31,7 @@ Developed by: P.Suganya
 Registeration Number : 212220230049
 */
 ```
+
 ### MainActivity.java
 ```java
 package com.example.calculator;

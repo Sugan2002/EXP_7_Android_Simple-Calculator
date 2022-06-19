@@ -1,5 +1,6 @@
-## Date-10/05/2022
-# <p align="center"> Ex.No:7 Develop a simple calculator using android studio</P>
+## EX NO: 07
+## Date : 10/05/2022
+# <p align="center"> Develop a simple calculator using android studio</P>
 
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
